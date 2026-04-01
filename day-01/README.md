@@ -3,8 +3,8 @@
 To Learn the fundamentals of Linux
 
 What was the goal for today?
-Learn Linux Commands and get comfortable with its usage 
----
+- Learn Linux Commands and get comfortable with its usage 
+
 
 ## What I Learned
 - Basic Linux file system navigation (`cd`, `pwd`, `ls`)  
