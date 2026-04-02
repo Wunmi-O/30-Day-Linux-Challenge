@@ -10,7 +10,7 @@ What was the goal for today?
 - Basic Linux file system navigation (`cd`, `pwd`, `ls`)  
 - File and directory management commands (`mkdir`, `touch`, `rm`, `cp`, `mv`)  
 - Text manipulation and searching tools (`grep`, `sort`, `uniq`, `head`) 
-- 
+- Sorting, Searching & Filtering
 - 
 - 
 
@@ -54,3 +54,8 @@ What was the goal for today?
 ## Output
 
 (Include links, screenshots, code snippets, or results)
+<img width="872" height="629" alt="1p" src="https://github.com/user-attachments/assets/5385eb01-ef92-4e9b-ab56-e559ebfa6795" />
+<img width="988" height="631" alt="2p" src="https://github.com/user-attachments/assets/9b1c161e-6103-457e-90be-929160d31672" />
+<img width="827" height="686" alt="3p" src="https://github.com/user-attachments/assets/4c1638ee-023c-45b5-ba18-1f4678b37e2d" />
+<img width="671" height="554" alt="4p" src="https://github.com/user-attachments/assets/5f6214a7-e5f1-497b-b35e-7b40b0b9f7cc" />
+
