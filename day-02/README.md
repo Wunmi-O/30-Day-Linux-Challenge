@@ -4,7 +4,6 @@
 
 What was the goal for today?
 - To understand how Linux manages users and controls who can access or make changes to the system.
-- 
 ---
 
 ## What I Learned
