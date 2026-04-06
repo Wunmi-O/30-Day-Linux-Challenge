@@ -53,4 +53,6 @@ I needed to go back to the basics and build up gradually. The plan is to underst
 ## Output
 
 <img width="1339" height="692" alt="7p" src="https://github.com/user-attachments/assets/04ee9616-21a1-4361-a20b-fdb861f27efd" />
+<img width="745" height="656" alt="14p" src="https://github.com/user-attachments/assets/9b4f4be3-0a54-4192-bf2c-f240b0552cca" />
+
 
