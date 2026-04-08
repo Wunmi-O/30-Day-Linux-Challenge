@@ -1,4 +1,4 @@
-Day 08 - Working with Files: cat, head, tail, wc, file
+## Day 08 - Working with Files: cat, head, tail, wc, file
 
 ## Objective
 Go deeper with files — reading content, inspecting parts
